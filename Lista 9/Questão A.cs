@@ -8,7 +8,7 @@ class MinhaClasse
 
         foreach (int numero in vetor) 
         {
-            Console.WriteLine(numero);
+            Console.WriteLine("Os números no vetor são: " + numero);
         }
     }
 }
